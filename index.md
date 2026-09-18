@@ -2,7 +2,7 @@
 title: Hồ sơ nhập ngành
 ---
 
-# Bùi Minh Khang
+# Nguyễn Văn An
 
 <!-- ========= PHẦN TÓM TẮT — bốn dòng, người đọc thấy trong sáu giây đầu =========
      Điền ở Bài 6. Bốn dòng, không hơn. Xem tờ "Trang chủ chính là CV".
@@ -14,7 +14,7 @@ Sinh viên năm nhất Khoa học máy tính · đang đi về hướng …
 - … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
 - … việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
 
-…@… · <https://minhkhang-26820120004.github.io>
+…@… · <https://…github.io>
 
 <!-- ================= hết phần tóm tắt ================= -->
 
@@ -36,4 +36,4 @@ Ngoài ra: [Nhật ký dùng AI](ai-log.md) — khai báo cho cả học phần.
 
 ---
 
-*Cập nhật lần cuối: … · Liên hệ: minhkhng22012008@gmail.com*
+*Cập nhật lần cuối: … · Liên hệ: …@…*
