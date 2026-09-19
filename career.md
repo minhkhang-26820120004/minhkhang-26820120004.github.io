@@ -19,18 +19,18 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | Có hiểu biết hoặc kinh nghiệm về BIM/CIM, CAD hoặc ngành xây dựng.Có kinh nghiệm core review,technical support hoặc mentoring các thành viên Junior, thành thạo GitHub | Có 3 Nam Kinh nghiệm trở lên phát triển dịch vụ backend,sử dụng các nền tảng Cloud computing như: AWS, Google iCloud, Digital Ocean.| … | chưa |
-| Kỹ năng |Có kĩ năng phân tích vấn đề,troubleshooting và chủ động đề xuất giải pháp thuật.Có khả năng làm việc độc lập và phối hợp tốt trong team| Có khả năng tự học hỏi, viết tiếng anh tốt, có khả năng giải quyết vấn đề và khả năng làm việc nhóm | … | một phần|
-| Thái độ | Sự tỉ mỉ và kỷ luật cao, tinh thần chủ động học hỏi, trách nhiệm và tư duy hướng tới trách nhiệm| Tính chủ động và nhạy bén, ý thức tuân thủ kỷ luật cao, luôn sẵn sàng với nhiệm vụ được giao| … | một phần |
-| Công cụ | Lập trình Backend,Đặc thù BIM/CIM| Microsoft Excel, Github,Gemini, Debug | … | một phần|
+| Kiến thức | Có hiểu biết hoặc kinh nghiệm về BIM/CIM, CAD hoặc ngành xây dựng.Có kinh nghiệm core review,technical support hoặc mentoring các thành viên Junior, thành thạo GitHub | Có 3 Nam Kinh nghiệm trở lên phát triển dịch vụ backend,sử dụng các nền tảng Cloud computing như: AWS, Google iCloud, Digital Ocean.| Tốt nghiệp đại học chuyên ngành CNTT,thành thạo lập trình sử dụng các công nghệ: Javascript, Flutter/NodeJS | chưa |
+| Kỹ năng |Có kĩ năng phân tích vấn đề,troubleshooting và chủ động đề xuất giải pháp thuật.Có khả năng làm việc độc lập và phối hợp tốt trong team| Có khả năng tự học hỏi, viết tiếng anh tốt, có khả năng giải quyết vấn đề và khả năng làm việc nhóm | Khả năng tự học,ngoại ngữ, thành thạo ngôn ngữ lập trình như Python, Java, C++| một phần|
+| Thái độ | Sự tỉ mỉ và kỷ luật cao, tinh thần chủ động học hỏi, trách nhiệm và tư duy hướng tới trách nhiệm| Tính chủ động và nhạy bén, ý thức tuân thủ kỷ luật cao, luôn sẵn sàng với nhiệm vụ được giao| Lắng nghe và tiếp thu ý kiến đóng góp, hiểu nhu cầu của khách hàng, tư duy được giải pháp đưa ra cho khách hàng, chịu trách nhiệm với sản phẩm của bản thân| một phần |
+| Công cụ | Lập trình Backend,Đặc thù BIM/CIM| Microsoft Excel, Github,Gemini, Debug | JavaScript, Python, Github, Cloude, ChatGPT | một phần|
 
 ## Ba tin tuyển dụng
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | Công Ty TNHH AIOZ Việt Nam| … | … | 19/09/2026 |
-| 2 | Công Ty TNHH CTI VN| … | … | 19/09/2026 |
-| 3 | CÔNG TY CỔ PHẦN PT KIẾN TRÚC VIỆT NAM| … | … | 19/09/2026|
+| 1 | Công Ty TNHH AIOZ Việt Nam| Hồ Chí Minh | http://www.topcv.vn/cong-ty/cong-ty-tnhh-aioz-viet-nam/108305.html| 19/09/2026 |
+| 2 | Công Ty TNHH CTI VN| Hồ Chí Minh | http://www.topcv.vn/cong-ty/cong-ty-tnhh-cti-vn/199899.html | 19/09/2026 |
+| 3 | CÔNG TY CỔ PHẦN PHẦN MỀM Y TẾ VIỆT NAM| Hà Nội| http://trangvangvietnam.com/listings/1468020/cong-ty-co-phan-phan-mem-y-te-viet-nam.html| 19/09/2026|
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
