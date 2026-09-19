@@ -19,10 +19,10 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | … | … | … | chưa / một phần / rồi |
-| Kỹ năng | … | … | … | … |
-| Thái độ | … | … | … | … |
-| Công cụ | … | … | … | … |
+| Kiến thức | Có hiểu biết hoặc kinh nghiệm về BIM/CIM, CAD hoặc ngành xây dựng.Có kinh nghiệm core review,technical support hoặc mentoring các thành viên Junior, thành thạo GitHub | … | … | chưa / một phần / rồi |
+| Kỹ năng |Có kĩ năng phân tích vấn đề,troubleshooting và chủ động đề xuất giải pháp thuật.Có khả năng làm việc độc lập và phối hợp tốt trong team| … | … | … |
+| Thái độ | Sự tỉ mỉ và kỷ luật cao, tinh thần chủ động học hỏi, trách nhiệm và tư duy hướng tới trách nhiệm| … | … | … |
+| Công cụ | Lập trình Backend,Đặc thù BIM/CIM| … | … | … |
 
 ## Ba tin tuyển dụng
 
