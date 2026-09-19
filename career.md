@@ -21,7 +21,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 |---|---|---|---|---|
 | Kiến thức | Có hiểu biết hoặc kinh nghiệm về BIM/CIM, CAD hoặc ngành xây dựng.Có kinh nghiệm core review,technical support hoặc mentoring các thành viên Junior, thành thạo GitHub | Có 3 Nam Kinh nghiệm trở lên phát triển dịch vụ backend,sử dụng các nền tảng Cloud computing như: AWS, Google iCloud, Digital Ocean.| … | chưa |
 | Kỹ năng |Có kĩ năng phân tích vấn đề,troubleshooting và chủ động đề xuất giải pháp thuật.Có khả năng làm việc độc lập và phối hợp tốt trong team| Có khả năng tự học hỏi, viết tiếng anh tốt, có khả năng giải quyết vấn đề và khả năng làm việc nhóm | … | một phần|
-| Thái độ | Sự tỉ mỉ và kỷ luật cao, tinh thần chủ động học hỏi, trách nhiệm và tư duy hướng tới trách nhiệm| Tính chủ động và nhạy bén, ý thức tuân thủ kỷ luật cao, luôn sẵn sàng với nhiệm vụ được giao| … | … |
+| Thái độ | Sự tỉ mỉ và kỷ luật cao, tinh thần chủ động học hỏi, trách nhiệm và tư duy hướng tới trách nhiệm| Tính chủ động và nhạy bén, ý thức tuân thủ kỷ luật cao, luôn sẵn sàng với nhiệm vụ được giao| … | một phần |
 | Công cụ | Lập trình Backend,Đặc thù BIM/CIM| Microsoft Excel, Github,Gemini, Debug | … | một phần|
 
 ## Ba tin tuyển dụng
