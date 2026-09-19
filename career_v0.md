@@ -20,9 +20,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
 | Kiến thức | … | … | … | chưa / một phần / rồi |
-| Kỹ năng | |Có kĩ năng sử dụng phần mềm thiết kế như AutoCAD
-có kiến thức về các tiêu chuẩn và quy định xây dựng hiện hành| … | … |
-| Thái độ |Thật thà,chịu khó| … | … | … |
+| Kỹ năng | |...| … | … |
+| Thái độ |...| … | … | … |
 | Công cụ | … | … | … | … |
 
 ## Ba tin tuyển dụng
