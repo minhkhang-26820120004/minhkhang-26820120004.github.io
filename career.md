@@ -19,18 +19,18 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
-| Kiến thức | Có hiểu biết hoặc kinh nghiệm về BIM/CIM, CAD hoặc ngành xây dựng.Có kinh nghiệm core review,technical support hoặc mentoring các thành viên Junior, thành thạo GitHub | … | … | chưa / một phần / rồi |
-| Kỹ năng |Có kĩ năng phân tích vấn đề,troubleshooting và chủ động đề xuất giải pháp thuật.Có khả năng làm việc độc lập và phối hợp tốt trong team| … | … | … |
-| Thái độ | Sự tỉ mỉ và kỷ luật cao, tinh thần chủ động học hỏi, trách nhiệm và tư duy hướng tới trách nhiệm| … | … | … |
-| Công cụ | Lập trình Backend,Đặc thù BIM/CIM| … | … | … |
+| Kiến thức | Có hiểu biết hoặc kinh nghiệm về BIM/CIM, CAD hoặc ngành xây dựng.Có kinh nghiệm core review,technical support hoặc mentoring các thành viên Junior, thành thạo GitHub | Có 3 Nam Kinh nghiệm trở lên phát triển dịch vụ backend,sử dụng các nền tảng Cloud computing như: AWS, Google iCloud, Digital Ocean.| … | chưa / một phần / rồi |
+| Kỹ năng |Có kĩ năng phân tích vấn đề,troubleshooting và chủ động đề xuất giải pháp thuật.Có khả năng làm việc độc lập và phối hợp tốt trong team| Có khả năng tự học hỏi, viết tiếng anh tốt, có khả năng giải quyết vấn đề và khả năng làm việc nhóm | … | … |
+| Thái độ | Sự tỉ mỉ và kỷ luật cao, tinh thần chủ động học hỏi, trách nhiệm và tư duy hướng tới trách nhiệm| Tính chủ động và nhạy bén, ý thức tuân thủ kỷ luật cao, luôn sẵn sàng với nhiệm vụ được giao| … | … |
+| Công cụ | Lập trình Backend,Đặc thù BIM/CIM| Microsoft Excel, Github,Gemini, Debug | … | … |
 
 ## Ba tin tuyển dụng
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | … | … | … | …/…/… |
-| 2 | … | … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
+| 1 | Công Ty TNHH AIOZ Việt Nam| … | … | 19/09/2026 |
+| 2 | Công Ty TNHH CTI VN| … | … | 19/09/2026 |
+| 3 | CÔNG TY CỔ PHẦN PT KIẾN TRÚC VIỆT NAM| … | … | 19/09/2026|
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
