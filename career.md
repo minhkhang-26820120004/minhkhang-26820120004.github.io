@@ -4,14 +4,13 @@ title: Chân dung nghề của tôi
 
 # Chân dung nghề của tôi
 
-> **Bài 1 · Xoá dòng này khi nộp.** Mọi chỗ có dấu … là chỗ em điền.
-> Đọc kỹ đề bài trên LMS trước khi viết. Bảy mục dưới đây là bắt buộc.
+> **Bài 1 · Giới thiệu ngành khoa học máy tính
 
 ## Hướng tôi nhắm
 
-…
+Kỹ Sư lập trình
 
-Vì sao: …
+Vì sao: Đam mê, có sự thích thú và hướng đến sau khi ra trường kiếm tiền.
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
@@ -38,29 +37,28 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 **Chỗ thứ nhất**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- AI viết: Xây dựng giao diện ứng dụng tích hợp AI và DApps , tập trung sử dụng React, Next.js, Typescript
+- Tin tuyển dụng thật ra viết: Sử dụng nền tảng iCloud cpmputing như: Google iCloud, Digital Ocean.
+- Tôi sửa thành: Google iCloud, digital ocean.
 
 **Chỗ thứ hai**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
-
+- AI viết: thái độ làm việc không đổ lỗi, chấp nhận sự lỗi thời, sẵn sàng vứt bỏ core của mình.
+- Tin tuyển dụng thật ra viết: thái độ có khả năng tự học hỏi, tuân thủ kỷ luật,tiếp thu ý kiến đóng góp.
+- Tôi sửa thành:Sự tỉ mỉ và kỷ luật cao, tinh thần chủ động học hỏi, trách nhiệm và tư duy hướng tới trách nhiệm.Tính chủ động và nhạy bén, ý thức tuân thủ kỷ luật cao.
 ## Một quyết định đạo đức
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng: …
-- Phía người dùng lập luận rằng: …
-- **Quyết định của tôi**, và vì sao: …
+- Phía luật sư công ty lập luận rằng: Dữ liệu vị trí đã được ẩn danh hoá, không bao giờ được chia sẻ với bên thứ ba. và tuyệt đối không được sử dung cho mục đích quảng cáo.
+- Phía người dùng lập luận rằng: Vị trí là một trong những loại dữ liệu nhạy cảm nhất.Việc công ty cố tình gộp chung nó vào khái niệm mập mờ như "dữ liệu kỹ thuật" là một hành vi lừa dối, tước dì quyền được biết chính xác những gì đang bị thu thập của người tiêu dùng.
+- **Quyết định của tôi**, và vì sao: Dưới góc độ của các tiêu chuẩn bảo vệ dữ liệu hiện đại( nghị định 13/2023/ND-CP) về bảo vệ dữ liệu cá nhân ở Việt Nam, lập luận của công ty bộc lộ nhiều lỗ hổng, trong khi góc nhìn của người dùng phản ánh đúng nguyên tắc cốt lõi của quyền riêng tư cá nhân người dùng
 
 ## Ba việc tôi làm trong học kỳ này
 
-1. …
-2. …
-3. …
+1. Cố gắng xung phong phát biểu tích luỹ điểm cộng
+2. Nắm chắc các kiến thức đã học đặc biệt là Github
+3. Khi gặp khó khăn cần hỏi bạn bè hoặc người trực hiếp hướng dẫn môn học để củng cố kiến thức và kỉ năng cần thiết.
 
 Cụ thể tới mức tháng sau kiểm được.
 
@@ -68,9 +66,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Thái độ, kỹ năng cần thiết của kỹ sư lập trình, làm cách nào để cải thiện những kỹ năng đó.  |
+| **Hoài** | Bạn có suy nghĩ gì về những thông tin bạn vừa nêu ra. |
+| **Học** | Chọn lọc thông tin và đối chiếu với những gì tìm hiểu được. |
+| **Hành** | Bắt tay vào những vấn đề đang gặp khuất mắt vừa được giải đáp. |
 
-Công cụ đã dùng: …
+Công cụ đã dùng: Gemini, ChatGPT.
