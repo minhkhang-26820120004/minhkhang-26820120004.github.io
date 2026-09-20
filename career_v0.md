@@ -30,7 +30,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 |---|---|---|---|---|
 | 1 | http://www.topcv.vn/cong-ty/cong-ty-tnhh-aioz-viet-nam/108305.html| … | …/…/… |
 | 2 |http://www.topcv.vn/cong-ty/cong-ty-tnhh-cti-vn/199899.html| … | … | …/…/… |
-| 3 | … | … | … | …/…/… |
+| 3 | http://trangvangvietnam.com/listings/1468020/cong-ty-co-phan-phan-mem-y-te-viet-nam.html | … | …/…/… |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
