@@ -22,7 +22,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | Kiến thức | Thành thạo Github, BIM/CIM| có kinh nghiệm 3 năm trở lên| tốt nghiệp đại học chuyên ngành CNTT| một phần|
 | Kỹ năng | có khả năng tự học hỏi|có kỹ năng phân tích vấn đề, suy nghĩ được giải pháp phù họp đề ra cho khách hàng| khả năng tự học, ngoại ngữ,python, java, C++ | một phần |
 | Thái độ |sự tỉ mỉ và kỷ luật cao, tinh thần kỷ luật cao.| chủ động, nhạy bén, tuân thủ kỷ luật| lắng nghe và tiếp thu đóng góp ý kiến, hiểu nhu cầu của khách hàng, tư duy và đưa ra giải pháp| một phần|
-| Công cụ | Python, Github| Microsoft excel, GitHub, gemini | … | … |
+| Công cụ | Python, Github| Microsoft excel, GitHub, gemini | cloude, GitHub, javaspcript|một phần |
 
 ## Ba tin tuyển dụng
 
