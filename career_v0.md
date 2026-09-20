@@ -20,7 +20,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | Lớp | Tin 1 | Tin 2 | Tin 3 | Tôi đã có? |
 |---|---|---|---|---|
 | Kiến thức | Thành thạo Github, BIM/CIM| có kinh nghiệm 3 năm trở lên| … | chưa / một phần / rồi |
-| Kỹ năng | |có kỹ năng phân tích vấn đề, suy nghĩ được giải pháp phù họp đề ra cho khách hàng| … | … |
+| Kỹ năng | có khả năng tự học hỏi|có kỹ năng phân tích vấn đề, suy nghĩ được giải pháp phù họp đề ra cho khách hàng| … | … |
 | Thái độ |sự tỉ mỉ và kỷ luật cao, tinh thần kỷ luật cao.| … | … | … |
 | Công cụ | Python, Github| … | … | … |
 
