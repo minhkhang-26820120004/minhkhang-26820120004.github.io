@@ -29,7 +29,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
 | 1 | http://www.topcv.vn/cong-ty/cong-ty-tnhh-aioz-viet-nam/108305.html| … | …/…/… |
-| 2 | … | … | … | …/…/… |
+| 2 |http://www.topcv.vn/cong-ty/cong-ty-tnhh-cti-vn/199899.html| … | … | …/…/… |
 | 3 | … | … | … | …/…/… |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
