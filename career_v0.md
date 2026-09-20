@@ -30,7 +30,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 |---|---|---|---|---|
 | 1 | công ty TNHH AIOZ Việt Nam|Hồ Chí Minh|http://www.topcv.vn/cong-ty/cong-ty-tnhh-aioz-viet-nam/108305.html|18/09/2026 |
 | 2 |Công ty tnhh cti vn|Hồ Chí Minh|http://www.topcv.vn/cong-ty/cong-ty-tnhh-cti-vn/199899.html| 17/09/2026 |
-| 3 | Công ty cổ phần phân mền y tế Việt Nam| Hà Nội| | …/…/… |
+| 3 | Công ty cổ phần phân mền y tế Việt Nam| Hà Nội|http://trangvangvietnam.com/listings/1468020/cong-ty-co-phan-phan-mem-y-te-viet-nam.html| 16/09/2026 |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
