@@ -9,9 +9,9 @@ title: Chân dung nghề của tôi
 
 ## Hướng tôi nhắm
 
-…
+nhân viên lập trình
 
-Vì sao: …
+Vì sao: vì đây là ngành tôi yêu thích và có cảm hứng đó chính là động lực cho tôi chọn
 
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
@@ -38,23 +38,23 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 **Chỗ thứ nhất**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- AI viết: thành thạo freamwork, điện toán đám mây Azure
+- Tin tuyển dụng thật ra viết: BIM/CIM, core review, tecgnical support
+- Tôi sửa thành: GitHub
 
 **Chỗ thứ hai**
 
-- AI viết: …
-- Tin tuyển dụng thật ra viết: …
-- Tôi sửa thành: …
+- AI viết: cần bằng giữ kỹ thuật và tiến độ, cởi mở với phản hồi,diễn đạt kỹ thuật thành ngôn ngữ kinh doanh
+- Tin tuyển dụng thật ra viết: sự tỉ mỉ và kỷ luật cao, tính chủ động nhạy bén, sẵn sàng với nhiệm vụ
+- Tôi sửa thành: lắng nghe và tiếp thu ý kiến đóng góp.
 
 ## Một quyết định đạo đức
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng: …
-- Phía người dùng lập luận rằng: …
-- **Quyết định của tôi**, và vì sao: …
+- Phía luật sư công ty lập luận rằng: người dùng đã chủ động thao tác bật cấp quyền vị trí thông qua hộp thoại hệ thống, dữ liệu vị trí chỉ được xử lý dưới dạng không định danh
+- Phía người dùng lập luận rằng: vi phạm nguyên tắc"đồng ý dựa trên thông tin dầy đủ", xâm phạm dữ liệu cá nhân nhạy cảm, hành vi lừa dối và tước đoạt quyền kiểm soát thông tin
+- **Quyết định của tôi**, và vì sao: vi phạm nguyên tắc minh bạch, cơ quan quản lý và toà án không chấp nhận lỗi sơcxuaats nội bộ làm lý do để xâm phạm quyền riêng tư của người dùng.
 
 ## Ba việc tôi làm trong học kỳ này
 
@@ -73,4 +73,4 @@ Cụ thể tới mức tháng sau kiểm được.
 | **Học** | … |
 | **Hành** | … |
 
-Công cụ đã dùng: …
+Công cụ đã dùng: gemini, chatgpt.
