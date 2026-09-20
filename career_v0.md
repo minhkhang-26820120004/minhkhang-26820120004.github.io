@@ -28,9 +28,9 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | http://www.topcv.vn/cong-ty/cong-ty-tnhh-aioz-viet-nam/108305.html| hà nội | 18/09/2026|
-| 2 |http://www.topcv.vn/cong-ty/cong-ty-tnhh-cti-vn/199899.html| … | … | …/…/… |
-| 3 | http://trangvangvietnam.com/listings/1468020/cong-ty-co-phan-phan-mem-y-te-viet-nam.html | … | …/…/… |
+| 1 | công ty TNHH AIOZ Việt Nam|Hồ Chí Minh|  | |
+| 2 || Công Ty TNHH CTI VN | Hồ Chí Minh | …/…/… |
+| 3 | Công ty cổ phần phân mền y tế Việt Nam| Hà Nội| | …/…/… |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
