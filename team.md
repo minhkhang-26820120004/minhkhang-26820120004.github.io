@@ -104,7 +104,7 @@ Xem lại phần đánh giá điểm số để bảo vệ quyền lợi của m
 
 
 
-*Người viết phần này: …*
+*Người viết phần này: Bùi Minh Khang*
 
 ## 5. Khi bất đồng thì quyết thế nào
 
