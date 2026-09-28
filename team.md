@@ -41,13 +41,17 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 
-1. Vì sao [vấn đề xảy ra]? → …
-2. Vì sao [câu trả lời 1]? → …
-3. Vì sao [câu trả lời 2]? → …
-4. Vì sao [câu trả lời 3]? → …
-5. Vì sao [câu trả lời 4]? → … *(nguyên nhân gốc)*
+1. Vì sao [vấn đề xảy ra]? → Vì sao bài tập, dự án nhóm bị chậm trễ? => Vì các thành viên chưa hoàn thành phần việc được giao đúng thời hạn.
 
-*Người viết phần này: …*
+2. Vì sao [câu trả lời 1]? → Vì sao các thành viên không hoàn thành đúng thời hạn? => Vì các bạn chưa sắp xếp được thời gian học hợp lí và vẫn còn thói quen trì hoãn trong công việc.
+
+3. Vì sao [câu trả lời 2]? → Vì sao thường trì hoãn trong công việc? => Vì chưa xác định được công việc cụ thể và vẫn chưa nắm rõ được 
+4. Vì sao [câu trả lời 3]? → Vì sao chưa có kế hoạch làm việc cụ thể? => Vì nhóm chưa phân công công việc của từng người cụ thể và thống nhất thời hạn một cách rõ ràng ngay từ đầu.
+
+5. Vì sao [câu trả lời 4]? → Vì sao nhóm chưa phân công công việc và thống nhất rõ ràng? => Vì mọi người thiếu sự phối hợp, trách nhiệm và quản lí công việc của từng người trong nhóm.
+*(nguyên nhân gốc)*
+
+*Người viết phần này: Trần Trung Sỹ*
 
 ### 4. Ba giải pháp đã thử
 
@@ -94,7 +98,7 @@ Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt k
 *Người viết phần này: …*
 
 ## 4. Khi một người mất tích
-
+Khi bắt đầu làm bài trong 30p đầu phân chia công việc cụ thể, không bắt tay ngay vào làm mà họp triển khai công việc rõ ràng
 Phân chia lại công việc và chia ra sao cho hợp lí
 Thu gọn phạm vi làm việc của mỗi thành viên để cùng nhau làm luôn cả phần người mất tích
 Cùng nhau đánh giá lại tiến độ hoàn thành công việc
