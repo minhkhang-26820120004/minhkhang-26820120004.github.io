@@ -71,7 +71,7 @@ Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
 **Cảnh báo cụ thể cho nhóm khoá sau:** Nên giành nhiều thời gian để trao đổi và đưa ra những ý kiến phù hợp, tập trung vào phần còn thiếu xót hay điểm yếu của nhóm mà sửa chữa khắc phục kịp thời
 
-*Người viết phần này: …*
+*Người viết phần này: Bùi Minh Khang*
 
 ## 1. Cách chia việc
 
