@@ -65,11 +65,11 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 
 Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
-**Giữ:** …
+**Giữ:** Nguyên nhân gốc, ba giải pháp đã thử
 
-**Bỏ:** …
+**Bỏ:** cách đo số liệu
 
-**Cảnh báo cụ thể cho nhóm khoá sau:** …
+**Cảnh báo cụ thể cho nhóm khoá sau:** Nên giành nhiều thời gian để trao đổi và đưa ra những ý kiến phù hợp, tập trung vào phần còn thiếu xót hay điểm yếu của nhóm mà sửa chữa khắc phục kịp thời
 
 *Người viết phần này: …*
 
@@ -95,7 +95,14 @@ Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt k
 
 ## 4. Khi một người mất tích
 
-…
+Phân chia lại công việc và chia ra sao cho hợp lí
+Thu gọn phạm vi làm việc của mỗi thành viên để cùng nhau làm luôn cả phần người mất tích
+Cùng nhau đánh giá lại tiến độ hoàn thành công việc
+Duy trì động lực nhóm:Giữ lửa cho những thành viên còn lại khi thấy ai đó muốn bỏ cuộc
+Ghi lại lịch sử tin nhắn, những lần liên lạc với người mất tích
+Xem lại phần đánh giá điểm số để bảo vệ quyền lợi của mọi người thật công bằng
+
+
 
 *Người viết phần này: …*
 
