@@ -69,7 +69,7 @@ Ai thử cái nào, trong bao lâu, kết quả đo lại ra sao. Ghi cả cái 
 
 Giữ gì, bỏ gì, và một lời cảnh báo cụ thể cho nhóm khoá sau.
 
-**Giữ:** Giành 30p phân công công việc thật cụ thể cho từng thành viên, cùng trao đổi đóng góp ý kiến, khi mỗi người chuẩn bị phần nội dung xong rồi cần cùng nhau kiểm tra lại xem có hợp lí hay thiếu xót gì không.
+**Giữ:** Giành 30p phân công công việc thật cụ thể cho từng thành viên, cùng trao đổi đóng góp ý kiến, khi mỗi người chuẩn bị phần nội dung xong rồi cần cùng nhau kiểm tra lại xem có hợp lí hay thiếu sót gì không.
 
 **Bỏ:** Bỏ hết những thói quen đùng đẩy trách nhiệm, trễ nải trong phần đưa ra nội dung khi nhóm cần, đặt thời gian hoàn thành công việc lên trên hết và nội dung chỉnh chu là mục đích cần hướng tới.
 
