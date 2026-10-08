@@ -35,8 +35,21 @@ title: Bản đồ học tập bốn năm
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 3 | … | … | … |
-| 4 | … | … | … |
+| 3 | POS106 | Chủ nghĩa xã hội khoa học| 2 |
+| 3 | ENC122 | Anh ngữ 3 | 3 |
+| 3 | MAT104 | Toán rời rạc | 3 |
+| 3 | CMP167 | Lập trình hướng đối tượng | 3 |
+| 3 | CMP368 | Thực hành lập trình hướng đối tượng | 1 |
+| 3 | COS135 | Nhập môn cơ sở dữ liệu | 3 |
+| 3 | COS323 | Thực hành cơ sở dữ liệu | 1 |
+| 3 | CMP3014 | Thực hành lý thuyết đồ thị | 1 |
+| 4 | POS107 | Lịch sử đảng Cộng sản Việt Nam | 2 |
+| 4 | ENC123 | Anh ngữ 4 | 3 |
+| 4 | MAT105 | Xác xuất thống kê | 3 |
+| 4 | COS120 | Cấu trúc dữ kiệu và giải thuật | 3 |
+| 4 | COS1002 | Các hệ quản trị cơ sở dữ liệu | 3 |
+| 4 | COS324 | Thực hành quản trị cơ sở dữ liệu | 1 |
+| 4 | COS159 | Đồ hoạ ứng dụng trong khoa học máy tính | 3 |
 
 ### Năm ba
 
