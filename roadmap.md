@@ -4,7 +4,7 @@ title: Bản đồ học tập bốn năm
 
 # Bản đồ học tập bốn năm
 
-> **Bài 2 · .**
+> **Bài 2  .**
 
 
 ## Hướng tôi nhắm, nhắc lại từ Bài 1
@@ -92,34 +92,35 @@ title: Bản đồ học tập bốn năm
 | 8 | COS570 | Thực tập tốt nghiệp ngành khoa học máy tính | 3 |
 | 8 | COS4012 | Đồ án tốt nghiệp khoa học máy tính | 9 |
 
-**Tổng cộng: … tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
+**Tổng cộng: 150 tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
 Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa ra một môn không có thật.
 
 ## Vì sao tôi xếp như vậy
 
-- Kỳ nặng nhất là học Kỳ 8 là kỳ nhẹ nhất vì chương trình chỉ tập trung vào Thực tập tốt nghiệp và Đồ án tốt nghiệp, giúp sinh viên thoát khỏi áp lực lên lớp lý thuyết và thi cử dồn dập để toàn tâm toàn ý ra doanh nghiệp trải nghiệm thực tế và hoàn thành sản phẩm chuyên ngành cuối khóa.
-- Môn … phải học trước môn … vì …
-- Kỳ … tôi để nhẹ vì …
+- Kỳ nặng nhất là kỳ 6 và kỳ 7 vì đây là giai đoạn chạy nước rút để có tâm thế và nền tảng thật tốt để bước vào học kỳ 8.
+- Môn CMP164 (Kỹ thuật lập trình) phải học trước môn COS120 (Cấu trúc dữ liệu và giải thuật) vì đây là điều kiện tiên quyết bắt buộc từ chương trình. Tương tự, chuỗi Ngoại ngữ (ENC120 → ENC123) và Kỹ năng mềm (SKL115 → SKL116) phải đi tuần tự.
+- Kỳ 8 tôi để nhẹ vì chương trình chỉ tập trung vào Thực tập tốt nghiệp và Đồ án tốt nghiệp, giúp sinh viên thoát khỏi áp lực lên lớp lý thuyết và thi cử dồn dập để toàn tâm toàn ý ra doanh nghiệp trải nghiệm thực tế và hoàn thành sản phẩm chuyên ngành cuối khóa.
 
 ## Hai chỗ AI nói sai
 
 **Chỗ thứ nhất**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Có thể xếp môn COS120 (Cấu trúc dữ liệu và giải thuật) vào ngay học kỳ 1 hoặc học kỳ 2 để đẩy nhanh tiến độ chuyên ngành.
+- Bảng chương trình đào tạo thật ra ghi: COS120 yêu cầu môn học trước là CMP164 (Kỹ thuật lập trình), và CMP164 lại yêu cầu CMP1074. Do đó không thể học sớm ở năm nhất.
+- Tôi sửa thành: Đẩy COS120 sang học kỳ 4 sau khi đã hoàn thành trọn vẹn chuỗi lập trình cơ bản ở năm nhất và học kỳ đầu năm hai.
+
 
 **Chỗ thứ hai**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Các môn thực hành (như COS321, COS323, CMP365) có thể học dồn vào một kỳ riêng biệt bất kỳ miễn đủ tín chỉ.
+- Bảng chương trình đào tạo thật ra ghi: Các môn thực hành này đều có mã học phần học trước hoặc song hành trực tiếp với các môn lý thuyết tương ứng (ví dụ: COS321 đi cùng COS120).
+- Tôi sửa thành: Xếp các môn thực hành nằm sát ngay cạnh hoặc cùng học kỳ với môn lý thuyết tương ứng để đảm bảo kiến thức vừa học được áp dụng ngay vào phòng máy.
 
 ## Tôi đã làm việc với AI thế nào
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Yêu cầu AI phân tích và đưa ra lộ trình 4 năm đại học thật chi tiết nêu cả mạnh yếu của cả sơ đồ đào tạo ngành Khoa học Máy tính của HUTECH để tránh sự chọn lựa sai lầm dẫn đến mất thời gian và không hiệu quả. |
+| **Hoài** | Đối chiếu kỹ từng mã môn, số tín chỉ (lý thuyết/thực hành) xem có bịa đặt hoặc nhầm lẫn học kỳ hay không hoặc có thèm môn nào không trong hệ thống đào tạo của trường hay không. |
+| **Học** | Rút kinh nghiệm về cách chọn môn sao cho phù hợp với năng lực, tiến độ và điều kiện tin quyết từ cáccơ sở ngành và chuyên ngành từ năm 1 đến năm 4 đúng theo lộ trình chuẩn. |
+| **Hành** | Rút kinh nghiệm về cách phân bổ các khối kiến thức đại cương, cơ sở ngành và chuyên ngành từ năm 1 đến năm 4 đúng theo lộ trình vạch ra của bản thân. |
