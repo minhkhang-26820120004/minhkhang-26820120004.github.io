@@ -21,10 +21,16 @@ title: Bản đồ học tập bốn năm
 | 1 | SKL115 | Tư duy thiết kế dự án| 3 |
 | 1 | ENC120 | Anh ngữ 1 | 3 |
 | 1 | NDF108 | Quốc Phòng, An ninh 2 | Không tích luỹ |
+| 1 | POS104 | Triết học Mác- Lenin | 3 |
+| 1 | MAT101 | Đại số tuyến tính | 3 |
+| 1 | CMP1074 | Cơ sở lập trình | 3 |
+| 1 | CMP3075 | Thực hành cơ sở lập trình | 1 |
 | 2 | ENC121 | Anh ngữ 2 | 3 |
 | 2 | SKL116 | Đổi mới sáng tạo và tư duy khởi nghiệp | 3 |
-| 2 | NDF109 | Quốc phòng, An ninh 2 | Không tích luỹ |
-| 2 | CMP172 | Mạng máy tính | 3 |
+| 2 | POS105 | Kinh tế chính trị Mác-Lênin | 2 |
+| 2 | MAT118 | Giải tích | 3 |
+| 2 | CMP164 | Kỹ thuật lập trình | 3 |
+| 2 | CMP365 | Thực hành kỹ thuật lập trình | 1 |
 ### Năm hai
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
@@ -51,7 +57,7 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 
 ## Vì sao tôi xếp như vậy
 
-- Kỳ nặng nhất là kỳ …, vì …
+- Kỳ nặng nhất là học Kỳ 8 là kỳ nhẹ nhất vì chương trình chỉ tập trung vào Thực tập tốt nghiệp và Đồ án tốt nghiệp, giúp sinh viên thoát khỏi áp lực lên lớp lý thuyết và thi cử dồn dập để toàn tâm toàn ý ra doanh nghiệp trải nghiệm thực tế và hoàn thành sản phẩm chuyên ngành cuối khóa.
 - Môn … phải học trước môn … vì …
 - Kỳ … tôi để nhẹ vì …
 
