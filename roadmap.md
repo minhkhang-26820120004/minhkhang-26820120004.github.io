@@ -20,7 +20,7 @@ title: Bản đồ học tập bốn năm
 | 1 | COS673 | Nhập môn ngành khoa học máy tính | 3 |
 | 1 | SKL115 | Tư duy thiết kế dự án| 3 |
 | 1 | ENC120 | Anh ngữ 1 | 3 |
-| 1 | NDF108 | Quốc Phòng, An ninh 2 | Không tích luỹ |
+| 1 | NDF108 | Quốc Phòng, An ninh 1 | Không tích luỹ |
 | 1 | POS104 | Triết học Mác- Lenin | 3 |
 | 1 | MAT101 | Đại số tuyến tính | 3 |
 | 1 | CMP1074 | Cơ sở lập trình | 3 |
