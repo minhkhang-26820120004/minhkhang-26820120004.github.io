@@ -4,8 +4,8 @@ title: Bản đồ học tập bốn năm
 
 # Bản đồ học tập bốn năm
 
-> **Bài 2 · Xoá dòng này khi nộp.**
-> Tự xếp trước bằng tay, chưa mở AI. Xếp xong mới đưa cho nó phản biện.
+> **Bài 2 · .**
+
 
 ## Hướng tôi nhắm, nhắc lại từ Bài 1
 
@@ -55,14 +55,41 @@ title: Bản đồ học tập bốn năm
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 5 | … | … | … |
-| 6 | … | … | … |
+| 5 | POS103 | Tư tưởng Hồ Chí Minh | 2 |
+| 5 | LAW106 | Pháp luật đại cương | 3 |
+| 5 | CMP172 | Mạng máy tính  | 3 |
+| 5 | CMP373 | Thực hành mạng máy tính | 1 |
+| 5 | CMP101 | Công nghê phần mềm | 3 |
+| 5 | CMP177 | Lập trình trên thiết bị di động | 3 |
+| 5 | AIT1001 | Cơ sở trí tuệ nhân tạo | 3 |
+| 5 | AIT104 | Máy học | 3 |
+| 5 | AIT306 | Thực hành máy học | 1 |
+| 6 | ENS192 | Phát triển bền vững | 3 |
+| 6 | CMP174 | Bảo mật thông tin | 3 |
+| 6 | CMP170 | Lập trình trên môi trường Windows | 3 |
+| 6 | CMP371 | Thực hành lập trình trên môi trường Windows | 1 |
+| 6 | AIT1002 | Nghệ thuật lập trình với hỗ trợ trí tuệ nhân tạo | 3 |
+| 6 | AIT3007 | Thực hành nghệ thuật lập trình với hỗ trợ trí tuệ nhân tạo | 1 |
+| 6 | COS158 | Lập trình devops | 3 |
+| 6 | COS360 | Thực hành lập trình devops | 1 |
+| 6 | CMP1020 | Học sâu | 3 |
 
 ### Năm tư
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
 | 7 | … | … | … |
+| 7 | … | … | … |
+| 7 | … | … | … |
+| 7 | … | … | … |
+| 7 | … | … | … |
+| 7 | … | … | … |
+| 7 | … | … | … |
+| 7 | … | … | … |
+| 7 | … | … | … |
+| 7 | … | … | … |
+| 8 | … | … | … |
+| 8 | … | … | … |
 | 8 | … | … | … |
 
 **Tổng cộng: … tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
