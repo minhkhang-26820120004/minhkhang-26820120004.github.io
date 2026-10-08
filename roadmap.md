@@ -78,19 +78,19 @@ title: Bản đồ học tập bốn năm
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 7 | … | … | … |
-| 7 | … | … | … |
-| 7 | … | … | … |
-| 7 | … | … | … |
-| 7 | … | … | … |
-| 7 | … | … | … |
-| 7 | … | … | … |
-| 7 | … | … | … |
-| 7 | … | … | … |
-| 7 | … | … | … |
-| 8 | … | … | … |
-| 8 | … | … | … |
-| 8 | … | … | … |
+| 7 | COS129 | Điện toán đám mây | 3 |
+| 7 | CMP5089 | Thực tập điện toán đám mây | 1 |
+| 7 | AIT103 | Lập trình cho trí tuệ nhân tạo | 3 |
+| 7 | AIT305 | Thực hành lập trình cho trí tuệ nhân tạo| 1 |
+| 7 | CMP1047 | Phân tích và trực quan dữ liệu | 3 |
+| 7 | CMP3055 | Thực hành phân tích và trực quan dữ liệu | 1 |
+| 7 | COS5011 | Thực tập cơ sở ngành khoa học máy tính | 3 |
+| 7 | AIT108 | Xử lý ảnh và ứng dụng | 3 |
+| 7 | AIT307 | Thực hành xử lý ảnh và ứng dụng | 1 |
+| 7 | COS1010 | Cơ sở công nghệ chuỗi khối | 3 |
+| 8 | COS464 | Đồ án chuyên ngành khoa học máy tính | 3 |
+| 8 | COS570 | Thực tập tốt nghiệp ngành khoa học máy tính | 3 |
+| 8 | COS4012 | Đồ án tốt nghiệp khoa học máy tính | 9 |
 
 **Tổng cộng: … tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
 Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa ra một môn không có thật.
