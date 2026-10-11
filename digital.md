@@ -4,7 +4,7 @@ title: Dấu chân số của tôi
 
 # Dấu chân số của tôi
 
-> **Bài 4 · Xoá dòng này khi nộp.**
+> **Bài 4 ·**
 > **CẢNH BÁO QUAN TRỌNG:** trang này công khai, ai cũng đọc được.
 > Tuyệt đối không đưa lên đây ảnh có mã xác thực, số điện thoại, địa chỉ nhà,
 > hay bất cứ thứ gì em không muốn một người lạ nhìn thấy sau bốn năm.
@@ -12,7 +12,7 @@ title: Dấu chân số của tôi
 
 ## Tôi tự tìm tên mình và thấy gì
 
-…
+tôi tìm tên mình trên Google nhưng không thấy gì
 
 ## Bảng tự kiểm bảy nhóm năng lực số
 
