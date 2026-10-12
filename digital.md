@@ -12,7 +12,7 @@ title: Dấu chân số của tôi
 
 ## Tôi tự tìm tên mình và thấy gì
 
-tôi tìm tên mình trên Google nhưng không thấy gì
+Em tìm tên mình trên Google nhưng không thấy gì
 
 ## Bảng tự kiểm bảy nhóm năng lực số
 
@@ -45,7 +45,7 @@ và Nhân văn, ĐHQG Hà Nội phối hợp Tập đoàn Meta, công bố năm 
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Làm thế nào để học được cách giao tiếp và hợp tác trong môi trường số |
+| **Hoài** | Học như thế nào?, vận dụng kiến thức đã học ra làm sao?, làm cách nào để kiểm chứng?, những cách học đó mang lại những gì?  |
+| **Học** | Dành 10-15 phút mỗi tuần xem các đoạn video ngắn, Trước khi nhấn "Gửi" một email hay đoạn chat dài, hãy dừng lại 10 giây đóng vai người đọc. Tự hỏi: Nếu mình đang bận mà đọc tin nhắn này, mình có hiểu ngay cần làm gì không?,Bất cứ khi nào trao đổi công việc, hãy đảm bảo có đủ 3 yếu tố: Context (Bối cảnh/Lý do), Action (Hành động cụ thể cần người kia làm), Deadline (Thời hạn),giao tiếp rõ ràng, phản hồi đúng hạn và cập nhật minh bạch, đồng nghiệp và sếp sẽ hoàn toàn yên tâm giao việc cho tôi |
+| **Hành** | Thực hành khi liên lạc với giảng viên: Tuyệt đối tránh gửi email không tiêu đề hoặc nhắn tin cộc lốc. Hãy thực hành cấu trúc chuẩn: Tiêu đề rõ ràng - Xưng danh (Tên, Mã SV, Lớp, Môn) - Vấn đề trọng tâm - Cảm ơn, Thực hành trong bài tập nhóm (Chủ động cập nhật tiến độ): Đừng làm "bóng" của người khác đặc biệt là phải đợi nhóm trưởng phải đi đòi bài. Cần tạo thói quen chủ động báo cáo trên group chung: "Phần 1 mình đã viết xong bản nháp, mọi người vào Google Docs xem và góp ý nhé. Tối mai mình sẽ hoàn thành". |
