@@ -35,6 +35,6 @@ Tôi sẽ viết lại trang career, theo cách Tôi sẽ tìm nhiều nguồn t
 
 ## Đoạn tự giới thiệu chín mươi giây
 
-Đường dẫn: …
+Đường dẫn: 20261025_200052.mp4
 
 Không cần đẹp, không cần phông nền. Chỉ cần giọng tôi nói về thứ tôi đã làm.
