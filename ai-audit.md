@@ -15,7 +15,7 @@ title: Soi một công cụ AI
 | # | Câu tôi hỏi | Nó trả lời gì | Đúng / Sai | Sai ở chỗ nào | Tôi kiểm bằng nguồn nào | Bài học |
 |---|---|---|---|---|---|---|
 | 1 | Ai là người tạo ra máy ảnh đầu tiên trên thế giới | Joseph Nicéphore Niépce được lịch sử công nhận là người chế tạo ra chiếc máy ảnh thực tế đầu tiên và chụp được bức ảnh vĩnh cửu đầu tiên trên thế giới vào khoảng những năm 1816 đến 1826. | Đúng | … | https://www.sinoseen.com/vi/who-invented-the-camera | … |
-| 2 | … | … | … | … | … | … |
+| 2 | Ai là người dẫn dắt đội quân đánh bại đội quân Mông Nguyên 3 lần trong lịch sử việt Nam | Hưng Đạo Đại Vương Trần Quốc Tuấn (hay Trần Hưng Đạo) là vị tướng kiệt xuất và là biểu tượng lớn nhất gắn liền với chiến công 3 lần đánh bại quân Mông - Nguyên, cùng với sự lãnh đạo tối cao của các vị vua nhà Trần. | … | … | https://vnexpress.net/vua-viet-nao-3-lan-danh-giac-nguyen-mong-lap-chi-ho-lam-hoang-hau-4834801-p2.html | … |
 | 3 | … | … | … | … | … | … |
 | 4 | … | … | … | … | … | … |
 | 5 | … | … | … | … | … | … |
