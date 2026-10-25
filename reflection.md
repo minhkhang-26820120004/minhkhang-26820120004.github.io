@@ -4,8 +4,8 @@ title: Nhìn lại học kỳ
 
 # Nhìn lại học kỳ
 
-> **Bài 6 · Xoá dòng này khi nộp.**
-> Trước khi viết, hãy mở lại năm trang trước và đọc một lượt từ đầu.
+> **Bài 6 **
+
 
 ## Tôi đã thay đổi thế nào
 
@@ -21,15 +21,15 @@ Trang tôi làm tốt nhất là roadmap, vì đây là trang tôi phải giành
 
 Viết thật. Bài nào cũng có một trang như vậy.
 
-…, vì …
+Trang tôi làm cho xong là career_v0, vì đây là phần thô, bản nháp khi bắt đầu vô làm bài, nên phần này tôi chỉ làm cho xong để dì đến những mục chính, nhưng đôi khi phần thô là phần thật nhất và nó là nền móng cho những gì bản thân cần trong những nội dung tiếp theo. Tôi thừa nhận rằng phần này tôi là cho xong hoá ra đó là một sai lầm.
 
 ## Nếu có thêm hai tuần
 
-Tôi sẽ viết lại trang …, theo cách …
+Tôi sẽ viết lại trang career, theo cách Tôi sẽ tìm nhiều nguồn tuyển dụng hơn, xem nhiều yêu cầu họ đang cần ở thời điểm hiện nay để có thể kế hoạch hoá được quá trình chuẩn bị cho tương lai, viết lại thật kỹ những lưu ý quan trọng của những nhà tuyển dụng
 
 ## Ba điều tôi mang sang học kỳ sau
 
-1. …
+1. Tôi sẽ mang career dùng cho những học kì sau
 2. …
 3. …
 
