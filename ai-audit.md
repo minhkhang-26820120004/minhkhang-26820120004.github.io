@@ -4,7 +4,7 @@ title: Soi một công cụ AI
 
 # Soi một công cụ AI
 
-> **Bài 5 **
+> **Bài 5 ** <br>
 **Công cụ đã thử:** ChatGPT, Gemini · **Ngày thử:** 2/10/2026
 
 ## Bảng kiểm thử năm câu
