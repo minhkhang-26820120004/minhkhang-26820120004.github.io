@@ -14,7 +14,7 @@ title: Nhật ký dùng AI
 | 2 | ChatGPT | Đối tác phản biện | … | … |
 | 3 | Gemini | Sinh bản nháp | … | … |
 | 4 | Gemini | Người kèm cặp | … | … |
-| 5 |  | Đối tác phản biện | … | … |
+| 5 | ChatGPT| Đối tác phản biện | … | … |
 | 6 | … | … | … | … |
 
 ## Ba lần nó nói sai mà tôi bắt được
