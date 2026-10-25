@@ -5,6 +5,8 @@ title: Nhật ký dùng AI
 # Nhật ký dùng AI — cả học phần
 
 > **Bài 6 **
+>
+
 | Bài | Công cụ | Vai | Tôi nhờ nó làm gì | Tôi đã sửa lại gì |
 |---|---|---|---|---|
 | 1 | Gemini | Sinh bản nháp + Đối tác phản biện | Tôi đưa chương trình đào tạo của trường nhờ AI đưa ra lộ trình học và phân tích độ năng của từng môn học | Tôi đã sữa lại những môn mà do Ai bịa ra không có trong chương trình đào tạo và sữa lại những môn AI xếp không hợp lí khi không đúng với điều kiện tiên quyết của trường |
