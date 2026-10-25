@@ -16,9 +16,9 @@ title: Soi một công cụ AI
 |---|---|---|---|---|---|---|
 | 1 | Ai là người tạo ra máy ảnh đầu tiên trên thế giới | Joseph Nicéphore Niépce được lịch sử công nhận là người chế tạo ra chiếc máy ảnh thực tế đầu tiên và chụp được bức ảnh vĩnh cửu đầu tiên trên thế giới vào khoảng những năm 1816 đến 1826. | Đúng | … | https://www.sinoseen.com/vi/who-invented-the-camera | … |
 | 2 | Ai là người dẫn dắt đội quân đánh bại đội quân Mông Nguyên 3 lần trong lịch sử việt Nam | Hưng Đạo Đại Vương Trần Quốc Tuấn (hay Trần Hưng Đạo) là vị tướng kiệt xuất và là biểu tượng lớn nhất gắn liền với chiến công 3 lần đánh bại quân Mông - Nguyên, cùng với sự lãnh đạo tối cao của các vị vua nhà Trần. | Đúng | … | https://vnexpress.net/vua-viet-nao-3-lan-danh-giac-nguyen-mong-lap-chi-ho-lam-hoang-hau-4834801-p2.html | … |
-| 3 | Nội dung chương trình đào tạo ngành khoa học máy tính của trường đại học công nghệ thành phố hồ chí minh gớm những  học phần nào tổng số tính chỉ tốt nghiệp là bao nhiêu, có bao nhiêu tín chỉ không tích luỹ  | Kiến thức giáo dục đại cương: Các học phần bắt buộc về Lý luận chính trị, Toán học (Đại số tuyến tính, Giải tích), Khoa học tự nhiên, Ngoại ngữ (Tiếng Anh), Pháp luật và Kỹ năng mềm.Kiến thức cơ sở ngành: Đào sâu vào nền tảng máy tính với Cấu trúc dữ liệu và thuật toán, Mạng máy tính, Hệ điều hành, Cơ sở dữ liệu, Công cụ và môi trường phát triển phần mềm.Kiến thức chuyên ngành (Khoa học máy tính): Tập trung vào các môn chuyên sâu như Trí tuệ nhân tạo (AI), Phân tích và trực quan dữ liệu, Đồ họa ứng dụng trong khoa học máy tính, Lập trình DevOps, An toàn và bảo mật thông tin, cùng các học phần lập trình ứng dụng (Web, Mobile, Windows)Tùy thuộc vào năm tuyển sinh hoặc định hướng phân nhánh Cử nhân/Kỹ sư trong một số đề án cập nhật mới của trường, tổng số tín chỉ có thể được tinh gọn xuống khoảng 127 – 130 tín chỉGiáo dục thể chất: Khối lượng 5 tín chỉ.Giáo dục Quốc phòng và An ninh: Sinh viên học và được cấp chứng chỉ riêng (tương đương khối lượng khoảng 8 tín chỉ) theo quy định chung của Bộ Giáo dục & Đào tạo.|sai| Sai ở số tính chỉ quy điều kiện để ra trường là 150 tín chỉ tích luỹ và 5 tín chỉ không tích luỹ, số môn học liệt kê chưa đầy đủ |  Daotao.hutech.edu.vn| Không nên tin tưởng AI 100% cần phải có sự kiểm chứng rõ ràng và luôn đặt cầu hỏi "tại sao" hay "từ đâu ra" trong mọi cầu trả lời nhận được từ AI |
-| 4 | … | … | … | … | … | … |
-| 5 | … | … | … | … | … | … |
+| 3 | Nội dung chương trình đào tạo ngành khoa học máy tính của trường đại học công nghệ thành phố hồ chí minh gớm những học phần nào tổng số tính chỉ tốt nghiệp là bao nhiêu, có bao nhiêu tín chỉ không tích luỹ  | Kiến thức giáo dục đại cương: Các học phần bắt buộc về Lý luận chính trị, Toán học (Đại số tuyến tính, Giải tích), Khoa học tự nhiên, Ngoại ngữ (Tiếng Anh), Pháp luật và Kỹ năng mềm.Kiến thức cơ sở ngành: Đào sâu vào nền tảng máy tính với Cấu trúc dữ liệu và thuật toán, Mạng máy tính, Hệ điều hành, Cơ sở dữ liệu, Công cụ và môi trường phát triển phần mềm.Kiến thức chuyên ngành (Khoa học máy tính): Tập trung vào các môn chuyên sâu như Trí tuệ nhân tạo (AI), Phân tích và trực quan dữ liệu, Đồ họa ứng dụng trong khoa học máy tính, Lập trình DevOps, An toàn và bảo mật thông tin, cùng các học phần lập trình ứng dụng (Web, Mobile, Windows)Tùy thuộc vào năm tuyển sinh hoặc định hướng phân nhánh Cử nhân/Kỹ sư trong một số đề án cập nhật mới của trường, tổng số tín chỉ có thể được tinh gọn xuống khoảng 127 – 130 tín chỉGiáo dục thể chất: Khối lượng 5 tín chỉ.Giáo dục Quốc phòng và An ninh: Sinh viên học và được cấp chứng chỉ riêng (tương đương khối lượng khoảng 8 tín chỉ) theo quy định chung của Bộ Giáo dục & Đào tạo.|sai| Sai ở số tính chỉ quy điều kiện để ra trường là 150 tín chỉ tích luỹ và 5 tín chỉ không tích luỹ, số môn học liệt kê chưa đầy đủ |  Daotao.hutech.edu.vn| Không nên tin tưởng AI 100% cần phải có sự kiểm chứng rõ ràng và luôn đặt cầu hỏi "tại sao" hay "từ đâu ra" trong mọi cầu trả lời nhận được từ AI |
+| 4 | Những ai là người đọc được toàn bộ mã DNA của con người trên thế giới| Francis Collins và Craig Venter | Sai | một nhóm gồm khoảng 100 nhà khoa học quốc tế, đứng đầu bởi Tiến sĩ Adam Phillippy (Viện Nghiên cứu Bộ gen Người Quốc gia Mỹ - NHGRI) và Tiến sĩ Karen Miga (Đại học California, Santa Cruz) | https://www.genome.gov/about-genomics/telomere-to-telomere | Những gì AI nói chỉ đúng một phần còn phần còn lại là do AI bịa ra, nếu tin AI 100% thì bạn đang đặt niềm tin sai chỗ |
+| 5 | Đội bóng nào có số lần vô địch word cúp nhiều nhất lịch sử thế giới | Brazil | Đúng | … | https://thethao247.vn/63-doi-tuyen-nao-vo-dich-world-cup-nhieu-nhat-lich-su-c2-d441489.html | … |
 
 Chép **nguyên văn** câu trả lời, kể cả chỗ nó nói đúng. So hai bên mới thấy
 giọng của nó không đổi dù đúng hay sai.
@@ -27,19 +27,19 @@ giọng của nó không đổi dù đúng hay sai.
 
 Cụ thể tới mức tháng sau đọc lại vẫn làm theo được.
 
-1. …
-2. …
-3. …
-4. …
-5. …
+1. Dừng lại và kiểm tra thông tin hay xác thực thông tin bằng các nguồn uy tín như NotebookLM
+2. Không nhập những thông tin cá nhân như số cccd, số tài khoản ngân hàng, Không tiếc lộ những thông tin riêng tư
+3. Coi AI như một gia sư chỉ hướng và đưa ra con đường chứ không dựa dẫm hay phụ thuộc hoàn toàn vào AI
+4. Cần thể hiện được tư duy phản biện của bản thân luôn hỏi Tại sao trong mọi cầu trả lời của AI
+5. Không nên dùng một dụng cụ duy nhất mà luôn luân phiên dùng nhiều công cụ để thấy được sự mới mẻ, những tính năng và ưu điểm của các công cụ khác mang lại
 
-**Quy tắc tôi thấy khó giữ nhất là số …**, vì …
+**Quy tắc tôi thấy khó giữ nhất là số 1 **, vì nó cần thời gian để luyện tập tính kĩ lưỡng và rèn luyện trước khi tìm hiểu phải nghĩ xem nó có đúng với sự thật không 
 
 ## Tôi đã làm việc với AI thế nào
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Ai là người tạo ra máy ảnh đầu tiên trên thế giới, Ai là người dẫn dắt đội quân đánh bại đội quân Mông Nguyên 3 lần trong lịch sử việt Nam, Nội dung chương trình đào tạo ngành khoa học máy tính của trường đại học công nghệ thành phố hồ chí minh gớm những học phần nào tổng số tính chỉ tốt nghiệp là bao nhiêu, có bao nhiêu tín chỉ không tích luỹ, Những ai là người đọc được toàn bộ mã DNA của con người trên thế giới,Đội bóng nào có số lần vô địch word cúp nhiều nhất lịch sử thế giới |
+| **Hoài** | Thông tin đó lấy ở nguồn nào, tại sao lại có thông tin đó, theo tôi bạn trả lời sai rồi như ý tôi mới đúng, tại sao bạn lại thay đổi ý kiến,... |
+| **Học** | Học được Tư duy phản biện các vấn đề, học được cách tra cứu các nguồn thông tin uy tín, học được cách để bản thân không phụ thuộc tuyệt đối vào AI |
+| **Hành** | Áp dụng được vào thực tế khi sử dụng công cụ AI hỗ trợ |
