@@ -11,7 +11,7 @@ title: Nhìn lại học kỳ
 
 Đọc lại trang Bài 1 rồi trả lời: điều gì tôi tin hồi đó mà giờ không còn tin nữa?
 
-…
+Điều mà tôi tin hồi đó là chính những thông tin tôi tìm kiếm trên AI, tôi luôn lúc nào cũng cho rằng những gì AI đưa ra là đúng mà không kiểm chứng lại hoặc chép đáp án AI đưa ra mà không có đưa ra những cầu hỏi "Vì sao?" hay "Từ đâu có những thông tin trên".Nhưng giờ đây tôi đã có những nhận thức đúng đắn hơn về AI, AI không phải là công cụ điều khiển chúng ta, việc chúng ta lạm dụng AI một cách mất kiểm soát đang dần đẩy chúng ta vào sự lệ thuộc tuyệt đối của AI.Những thông tin AI đưa ra chúng ta cần kiểm chứng xem nó có thật sự đúng hay không, ví dụ cho khả năng kiểm chứng thông tin là ứng dụng NotebookLM.
 
 ## Trang tôi làm tốt nhất
 
@@ -29,9 +29,9 @@ Tôi sẽ viết lại trang career, theo cách Tôi sẽ tìm nhiều nguồn t
 
 ## Ba điều tôi mang sang học kỳ sau
 
-1. Tôi sẽ mang career dùng cho những học kì sau
-2. …
-3. …
+1. Tôi sẽ mang roadmap dùng cho những học kì sau
+2. Tôi sẽ mang career dùng để cải thiện và cập nhật kỹ năng cho bản thân
+3. Tôi sẽ mang team dùng để cải thiện khả năng làm việc nhóm, mạnh dạng đảm nhận những chức vụ như nhóm trưởng để tìm kiếm cho bản thân mình một cơ hội để thể hiện năng lực thật sự của bản thân, đồng thời rèn luyện bản lĩnh, sự tin để nâng tầm giá trị bản thân
 
 ## Đoạn tự giới thiệu chín mươi giây
 
