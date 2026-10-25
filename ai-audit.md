@@ -8,13 +8,13 @@ title: Soi một công cụ AI
 > Chọn năm câu mà em **đã biết chắc đáp án**. Hỏi thứ mình không biết
 > thì không có gì để đối chiếu, và mọi câu trả lời đều nghe hợp lý như nhau.
 
-**Công cụ đã thử:** … · **Ngày thử:** …
+**Công cụ đã thử:** ChatGPT, Gemini · **Ngày thử:** 2/10/2026
 
 ## Bảng kiểm thử năm câu
 
 | # | Câu tôi hỏi | Nó trả lời gì | Đúng / Sai | Sai ở chỗ nào | Tôi kiểm bằng nguồn nào | Bài học |
 |---|---|---|---|---|---|---|
-| 1 | … | … | … | … | … | … |
+| 1 | Ai là người tạo ra máy ảnh đầu tiên trên thế giới | Joseph Nicéphore Niépce được lịch sử công nhận là người chế tạo ra chiếc máy ảnh thực tế đầu tiên và chụp được bức ảnh vĩnh cửu đầu tiên trên thế giới vào khoảng những năm 1816 đến 1826. | Đúng | … | https://www.sinoseen.com/vi/who-invented-the-camera | … |
 | 2 | … | … | … | … | … | … |
 | 3 | … | … | … | … | … | … |
 | 4 | … | … | … | … | … | … |
