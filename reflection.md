@@ -15,7 +15,7 @@ title: Nhìn lại học kỳ
 
 ## Trang tôi làm tốt nhất
 
-…, vì …
+Trang tôi làm tốt nhất là roadmap, vì đây là trang tôi phải giành nhiều thời gian để tìm hiểu về chương trình đào tạo của trường, các điều kiện tiên quyết, suy nghĩ cách lựa chọn môn sao cho phù hợp để sử dụng cho các học kì sau.
 
 ## Trang tôi làm cho xong
 
