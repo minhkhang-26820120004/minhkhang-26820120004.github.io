@@ -6,7 +6,7 @@ title: Cẩm nang làm việc nhóm
 
 > **Bài 3 · 
 
-**Nhóm:** Anyone is Legend  · **Thành viên:** Trần Trung Sỹ, Nguyễn Phú Quý, Nguyễn Hữu Đức, Lê Tâm Như, Bùi Minh Khang, Nguyễn Tùng Dương.
+**Nhóm:** Anyone is Legend  · **Thành viên:** Trần Trung Sỹ, Nguyễn Phú Quý, Phạm Hữu Đức, Lê Tâm Như, Bùi Minh Khang, Nguyễn Tùng Dương.
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 
